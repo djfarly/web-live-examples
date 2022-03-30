@@ -1,10 +1,10 @@
-section {
+:host {
+  font: 1rem "Inter", sans-serif;
   --color-foam: #ffffff;
   --color-granite: #252629;
 }
 
 article {
-  font: 1rem "Fira Sans", sans-serif;
   background-color: var(--color-foam);
   color: var(--color-granite);
   padding: 0.5rem;

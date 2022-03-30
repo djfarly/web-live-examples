@@ -2,19 +2,55 @@
   "pages": {
     "checkbox": {
       "exampleCode": "live-examples/admission/checkbox.html",
-      "cssExampleSrc": "live-examples/admission/input.css",
+      "cssExampleSrc": "live-examples/admission/checkbox.css",
       "fileName": "admission_checkbox.html",
-      "title": "Interactive Editor: Check the checkbox using the code",
+      "title": "Interactive Editor: Check the Checkbox",
       "type": "tabbed",
       "height": "tabbed-shorter"
     },
     "background-color": {
-      "exampleCode": "live-examples/admission/background-color.html",
-      "cssExampleSrc": "live-examples/admission/background-color.css",
-      "fileName": "admission_background-color.html",
-      "title": "Interactive Editor: Swap color and background-color",
+      "exampleCode": "live-examples/admission/color-swap.html",
+      "cssExampleSrc": "live-examples/admission/color-swap.css",
+      "fileName": "admission_color-swap.html",
+      "title": "Interactive Editor: Color Swap",
       "type": "tabbed",
       "height": "tabbed-shorter"
+    },
+    "console-log": {
+      "exampleCode": "./live-examples/admission/console-log.js",
+      "fileName": "admission_console-log.html",
+      "title": "Interactive Editor: console.log()",
+      "type": "js"
+    },
+    "button-click": {
+      "exampleCode": "./live-examples/admission/button-click.html",
+      "cssExampleSrc": "./live-examples/admission/button-click.css",
+      "jsExampleSrc": "./live-examples/admission/button-click.js",
+      "fileName": "admission_button-click.html",
+      "title": "Interactive Editor: Button Click",
+      "height": "tabbed-standard",
+      "type": "webapi-tabbed",
+      "tabs": "html,css,js"
+    },
+    "create-button": {
+      "exampleCode": "./live-examples/admission/create-button.html",
+      "cssExampleSrc": "./live-examples/admission/create-button.css",
+      "jsExampleSrc": "./live-examples/admission/create-button.js",
+      "fileName": "admission_create-button.html",
+      "title": "Interactive Editor: Create a Button",
+      "height": "tabbed-standard",
+      "type": "webapi-tabbed",
+      "tabs": "html,css,js"
+    },
+    "change-headline": {
+      "exampleCode": "./live-examples/admission/change-headline.html",
+      "cssExampleSrc": "./live-examples/admission/change-headline.css",
+      "jsExampleSrc": "./live-examples/admission/change-headline.js",
+      "fileName": "admission_change-headline.html",
+      "title": "Interactive Editor: Change the headline",
+      "height": "tabbed-standard",
+      "type": "webapi-tabbed",
+      "tabs": "html,css,js"
     }
   }
 }

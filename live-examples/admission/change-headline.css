@@ -1,0 +1,22 @@
+:host {
+  font: 1rem "Inter", sans-serif;
+  --color-foam: #ffffff;
+  --color-nemo: #ff4a11;
+  --color-nemo-dark: #e5430f;
+}
+
+button {
+  font: inherit;
+  padding: 1.25rem 2rem;
+  border: 0;
+  border-radius: 0.25rem;
+  background-color: var(--color-nemo);
+  color: var(--color-foam);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+button:hover,
+button:active {
+  background-color: var(--color-nemo-dark);
+}
