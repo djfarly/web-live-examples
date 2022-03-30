@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "address": {
+      "exampleCode": "live-examples/admission/input/checkbox.html",
+      "cssExampleSrc": "live-examples/admission/input/input.css",
+      "fileName": "admission_checkbox.html",
+      "title": "Check the checkbox using the code",
+      "type": "tabbed",
+      "height": "tabbed-shorter"
+    }
+  }
+}

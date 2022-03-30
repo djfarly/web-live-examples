@@ -1,0 +1,15 @@
+{
+  "name": "admission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mdn-bob",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdn-bob": "^2.1.5"
+  }
+}
