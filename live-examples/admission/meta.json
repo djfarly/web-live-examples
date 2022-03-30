@@ -1,10 +1,18 @@
 {
   "pages": {
-    "address": {
-      "exampleCode": "live-examples/admission/input/checkbox.html",
-      "cssExampleSrc": "live-examples/admission/input/input.css",
+    "checkbox": {
+      "exampleCode": "live-examples/admission/checkbox.html",
+      "cssExampleSrc": "live-examples/admission/input.css",
       "fileName": "admission_checkbox.html",
-      "title": "Check the checkbox using the code",
+      "title": "Interactive Editor: Check the checkbox using the code",
+      "type": "tabbed",
+      "height": "tabbed-shorter"
+    },
+    "background-color": {
+      "exampleCode": "live-examples/admission/background-color.html",
+      "cssExampleSrc": "live-examples/admission/background-color.css",
+      "fileName": "admission_background-color.html",
+      "title": "Interactive Editor: Swap color and background-color",
       "type": "tabbed",
       "height": "tabbed-shorter"
     }

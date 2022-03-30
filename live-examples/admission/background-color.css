@@ -1,0 +1,13 @@
+section {
+  --color-foam: #ffffff;
+  --color-granite: #252629;
+}
+
+article {
+  font: 1rem "Fira Sans", sans-serif;
+  background-color: var(--color-foam);
+  color: var(--color-granite);
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 3px;
+}
